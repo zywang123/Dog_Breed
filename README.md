@@ -41,11 +41,9 @@ When people who are not familiar with dog wants to know the dog breed if they se
 
     Result you will get is "This is predicted to be a dog, and its breed is:  'Maltese'". 
  
- ## Metrics
-Metrics are measures of quantitative assessment used for comparing and tracking peformance or production. In the project, I used the ResNet-50 bottleneck features to identify dog breed from images,. And after training and testing the model, I checked the accuracy which shows **83%** accuracy which is good!
-
-![Test Accuracy](images/test_accuracy.png "Test Accuracy")
-
+## Blog
+Here is the link to check my blog.
+https://medium.com/@zeyao.wang/dog-breed-classification-b113cd526809
 
 ## Acknowledgment
 Here are some reference of function use:
